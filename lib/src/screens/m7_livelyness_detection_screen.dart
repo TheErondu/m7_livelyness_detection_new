@@ -17,7 +17,7 @@ class M7LivelynessDetectionScreen extends StatefulWidget {
   State<M7LivelynessDetectionScreen> createState() =>
       _MLivelyness7DetectionScreenState();
 }
-
+////
 class _MLivelyness7DetectionScreenState
     extends State<M7LivelynessDetectionScreen> {
   //* MARK: - Private Variables
